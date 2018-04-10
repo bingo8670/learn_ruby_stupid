@@ -1,3 +1,4 @@
+# 更多的变数和印出
 my_name = 'bingo'
 my_age = 29 # not a lie
 my_height = 173 # cm

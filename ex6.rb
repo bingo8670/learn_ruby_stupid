@@ -1,3 +1,4 @@
+# 字串（string）和文字
 x = "There are #{10} types of people."
 binary = "binary"
 do_not = "don't"

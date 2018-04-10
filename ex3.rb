@@ -1,3 +1,4 @@
+# 数字和数学计算
 puts "I will now count my chikens:"
 
 puts "Hens", 25 + 30 / 6
