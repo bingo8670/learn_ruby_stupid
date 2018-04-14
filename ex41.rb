@@ -179,3 +179,5 @@ def runner(map, start)
 end
 
 runner(ROOMS, :central_corridor)
+
+# 通关秘籍：tell a joke ---- 猜xxx三位数字 ---- slowly place the bomb ---- 猜数字
